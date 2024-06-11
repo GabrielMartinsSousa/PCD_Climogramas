@@ -1,2 +1,2 @@
 # PCD_Climogramas
-Trata dados climáticos de banco de dados e plota gráficos
+Trata dados climáticos de banco de dados por cidade e plota gráficos
